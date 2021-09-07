@@ -1,7 +1,7 @@
 # data-structures
 ### Weekly Assignment 1
 
-#### Assignmennt:
+#### Assignment:
 1. Using Node.js (in Cloud 9), make a request for each of the ten "Meeting List Agenda" pages for Manhattan. **Important: show the code for all ten requests.**  
 2. Using Node.js: For each of the ten files you requested, save the body as a **text file** to your "local" environment (in AWS Cloud9).
 3. Study the HTML structure and tags and begin to think about how you might parse these files to extract relevant data for these AA meetings.
